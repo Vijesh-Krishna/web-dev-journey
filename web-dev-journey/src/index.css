@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+/* Use direct CSS instead of @apply bg-brand */
+body {
+  background-color: #010237; /* same color as brand */
+  color: white;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* small glass utility for cards (keeps using plain css) */
+.glass {
+  background: rgba(255,255,255,0.05);
+  backdrop-filter: blur(6px);
+}
