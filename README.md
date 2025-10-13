@@ -8,7 +8,7 @@ This project is designed not just to showcase individual mini-projects but also 
 
 ## 📅 Project Timeline
 
-🛠 **Planned Completion:** **13 October 2025 (Today Evening)**  
+🛠 **Planned Completion:** **14 October 2025 (Today Evening)**  
 ✨ The project is actively under development, and the final version will be live later today.
 
 ---
@@ -67,4 +67,4 @@ The goal of *Web Dev Journey* is to:
 
 If you're a recruiter or collaborator checking this out — thank you for visiting 🙌
 
-Stay tuned for the final showcase today evening (13 October 2025) 🌆✨
+Stay tuned for the final showcase today evening (14 October 2025) 🌆✨
