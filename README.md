@@ -4,14 +4,14 @@ Welcome to **Web Dev Journey** - a personal project that reflects my growth from
 
 This project is designed not just to showcase individual mini-projects but also to present a **structured learning path** that I followed while mastering web development.
 
----
+
 
 ## 📅 Project Timeline
 
-🛠 **Planned Completion:** **14 October 2025 (Today Evening)**  
+🛠 **Planned Completion:** **15 October 2025 (Today Evening)**  
 ✨ The project is actively under development, and the final version will be live later today.
 
----
+
 
 ## 🧭 What to Expect
 
@@ -29,7 +29,7 @@ The website will walk visitors through **three major phases of my web developmen
 
 Each project will be displayed in an **interactive card layout** — click on any card to explore the live version of that project.
 
----
+
 
 ## 🧰 Tech Stack
 
@@ -39,7 +39,7 @@ Each project will be displayed in an **interactive card layout** — click on an
 - 🧾 **Vite** — Fast development environment  
 - 🛜 **Netlify / Vercel** — Deployment
 
----
+
 
 ## 🧭 My Vision for this Project
 
@@ -50,7 +50,7 @@ The goal of *Web Dev Journey* is to:
 - 🧑‍💻 Inspire other beginners with a **clear, visual learning roadmap**  
 - 🚀 Present all my mini-projects under one clean and interactive website
 
----
+
 
 ## 🪄 Future Enhancements
 
@@ -58,7 +58,7 @@ The goal of *Web Dev Journey* is to:
 - Add **dark/light mode** and improved UI animations  
 - Include **Project metadata** (tech used, year, role, etc.)
 
----
+
 
 ## 🌟 Status
 
@@ -67,4 +67,4 @@ The goal of *Web Dev Journey* is to:
 
 If you're a recruiter or collaborator checking this out — thank you for visiting 🙌
 
-Stay tuned for the final showcase today evening (14 October 2025) 🌆✨
+Stay tuned for the final showcase today evening (15 October 2025) 🌆✨
