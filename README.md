@@ -5,29 +5,24 @@ Welcome to **Web Dev Journey** - a personal project that reflects my growth from
 This project is designed not just to showcase individual mini-projects but also to present a **structured learning path** that I followed while mastering web development.
 
 
-
 ## 📅 Project Timeline
 
-🛠 **Planned Completion:** **15 October 2025 (Today Evening)**  
-✨ The project is actively under development, and the final version will be live later today.
+✨ The project is actively under development, and the final version will be live later soon.
 
 
+## 🧭 What’s Currently Added
 
-## 🧭 What to Expect
-
-The website will walk visitors through **three major phases of my web development journey**:
-
-1. **📄 Static Websites (HTML & CSS)**  
-   - My earliest websites built using fundamental web technologies.  
-   - Focused on structure, content, and design basics.
+1. **📄 Static Website Mini-Projects (HTML & CSS & Bootstrap)**  
+   - A few mini-projects have been added.  
+   - Focused on structure, content, and design basics.  
 
 2. **📱 Responsive Websites (HTML, CSS, Bootstrap)**  
-   - Intermediate projects where I learned to make pages **look great on all screen sizes**.
+   - Coming soon! Projects will be added shortly.  
 
-3. **⚡ Dynamic Websites (HTML, CSS & JavaScript)**  
-   - Projects that include **interactive elements** and basic functionality to bring websites to life.
+3. **⚡ Dynamic Websites (HTML, CSS, Bootstrap & JavaScript)**  
+   - Coming soon! Projects will be added shortly.  
 
-Each project will be displayed in an **interactive card layout** — click on any card to explore the live version of that project.
+Each project will be displayed in an **interactive card layout** — click on any card to explore the live version once deployed.
 
 
 
@@ -37,7 +32,7 @@ Each project will be displayed in an **interactive card layout** — click on an
 - 🎨 **Tailwind CSS** — Styling & animations  
 - 🌀 **Framer Motion** — Smooth transitions & effects  
 - 🧾 **Vite** — Fast development environment  
-- 🛜 **Netlify / Vercel** — Deployment
+- 🛜 **Netlify** — Deployment
 
 
 
@@ -56,15 +51,14 @@ The goal of *Web Dev Journey* is to:
 
 - Add **React projects**  
 - Add **dark/light mode** and improved UI animations  
-- Include **Project metadata** (tech used, year, role, etc.)
+- Include **Project metadata** (tech used, year, role, etc.)  
+- Add **responsive and dynamic mini-projects**  
 
 
 
 ## 🌟 Status
 
-🚧 **Currently:** “Coming Soon”  
-💻 **Live Version:** [*Will be deployed after final build today*]  
+🚧 **Currently:** Static website mini-projects are added
+💻 **Live Version:** [*Will be deployed after final build*]  
 
-If you're a recruiter or collaborator checking this out — thank you for visiting 🙌
-
-Stay tuned for the final showcase today evening (15 October 2025) 🌆✨
+Thank you for visiting 🙌 Stay tuned 🌆✨
