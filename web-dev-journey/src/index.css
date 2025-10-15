@@ -1,15 +1,26 @@
 @import "tailwindcss";
 
-/* Use direct CSS instead of @apply bg-brand */
-body {
-  background-color: #010237; /* same color as brand */
-  color: white;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+/* Global tweaks */
+:root{
+  --accent: #7c5cff;
+  --bg: #010237;
 }
 
-/* small glass utility for cards (keeps using plain css) */
+body {
+  background-color: var(--bg);
+  color: #fff;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+/* glass utility */
 .glass {
-  background: rgba(255,255,255,0.05);
+  background: rgba(255,255,255,0.04);
   backdrop-filter: blur(6px);
+}
+
+/* small scrollbar style for code panel */
+.code-scroll {
+  scrollbar-width: thin;
 }

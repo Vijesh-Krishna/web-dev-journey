@@ -1,0 +1,43 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #ffffff;
+  color: #183b56;
+  margin: 0;
+  padding: 0;
+}
+
+.conference-image {
+  max-width: 900px;
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
+
+.main-heading {
+  font-size: 35px;
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.section-heading {
+  font-size: 25px;
+  font-weight: 700;
+  margin-bottom: 5px;
+}
+
+.main-subtitle,
+.section-subtitle {
+  color: #5a7184;
+  margin-bottom: 25px;
+}
+
+.stat-number {
+  font-size: 25px;
+  font-weight: 700;
+  color: #183b56;
+}
+
+.stat-label {
+  font-size: 15px;
+  color: #5a7184;
+}

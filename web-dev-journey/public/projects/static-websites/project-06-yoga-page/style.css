@@ -1,0 +1,79 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* Home Section */
+.bg-container {
+  background-image: url("./images/yoga-bg.png");
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+  text-align: center;
+  padding: 40px 15px;
+}
+
+.main-heading {
+  color: #132d84;
+  font-size: 28px;
+  font-weight: bold;
+}
+
+.homeimg {
+  height: auto;
+  width: 70%;
+  max-width: 220px;
+}
+
+.para {
+  color: #253263;
+  font-size: 18px;
+}
+
+.button {
+  background-color: #132d84;
+  color: #fad693;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 25px;
+}
+
+/* Types of Yoga Section */
+.bg-details {
+  background-color: #ffedcb;
+  text-align: center;
+  padding: 50px 20px;
+}
+
+.homeimg-details {
+  height: auto;
+  width: 70%;
+  max-width: 200px;
+  margin-bottom: 20px;
+}
+
+.card {
+  background-color: #ffe2ab;
+  border-radius: 10px;
+  padding: 15px;
+  margin: 15px 0;
+  max-width: 600px;
+  text-align: left;
+}
+
+.card-img {
+  height: auto;
+  width: 120px;
+  border-radius: 8px;
+}
+
+.heading-card {
+  color: #132d84;
+  font-size: 22px;
+  margin-bottom: 5px;
+}
+
+.para-card {
+  color: #253263;
+  font-size: 14px;
+}

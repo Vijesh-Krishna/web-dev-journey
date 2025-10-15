@@ -1,0 +1,80 @@
+[
+  {
+    "id": "static-project-01-food-order-page",
+    "title": "Project 01 - Food Order Page",
+    "section": "Static",
+    "description": "A clean landing page for Happy Meals showcasing a promotional banner",
+    "folder": "/projects/static-websites/project-01-food-order-page",
+    "thumb": "/projects/static-websites/project-01-food-order-page//images/food-bg.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "id": "static-project-02-conference-page",
+    "title": "Project 02 - Conference Page",
+    "section": "Static",
+    "description": "A vibrant landing page showcasing an upcoming conference and its highlights.",
+    "folder": "/projects/static-websites/project-02-conference-page",
+    "thumb": "/projects/static-websites/project-02-conference-page/images/conference-img.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "id": "static-project-03-goa-page",
+    "title": "Project 03 - Goa Page",
+    "section": "Static",
+    "description": "A webpage showcasing Goa with images, carousels, and key highlights.",
+    "folder": "/projects/static-websites/project-03-goa-page",
+    "thumb": "/projects/static-websites/project-03-goa-page/images/goa-c1-img.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "id": "static-project-04-favourite-stores-page",
+    "title": "Project 04 - Favourite Stores Page",
+    "section": "Static",
+    "description": "A simple and elegant landing page for popular e-commerce stores.",
+    "folder": "/projects/static-websites/project-04-favourite-stores-page",
+    "thumb": "projects/static-websites/project-04-favourite-stores-page/images/stores-img.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "id": "static-project-05-podcast-page",
+    "title": "Project 05 - Podcast Page",
+    "section": "Static",
+    "description": "This page presents a collection of popular podcasts along with their episodes and descriptions.",
+    "folder": "/projects/static-websites/project-05-podcast-page",
+    "thumb": "/projects/static-websites/project-05-podcast-page/images/podcasts-bg.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  },
+  {
+    "id": "static-project-06-yoga-page",
+    "title": "Project 06 - Yoga Page",
+    "section": "Static",
+    "description": "A calm and graceful webpage introducing the essence of yoga and its various forms",
+    "folder": "/projects/static-websites/project-06-yoga-page",
+    "thumb": "/projects/static-websites/project-06-yoga-page/images/yoga-girl-without-headphones-img.png",
+    "tech": [
+      "HTML",
+      "CSS",
+      "Bootstrap"
+    ]
+  }
+]
