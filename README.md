@@ -1,4 +1,4 @@
-# 🌐 Web Dev Journey 🚀
+# 🌐 Web Dev Journey 
 
 Welcome to **Web Dev Journey** - a personal project that reflects my growth from building **basic static pages** to **fully functional dynamic web applications** over the past year.  
 
