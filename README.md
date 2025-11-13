@@ -25,7 +25,6 @@ This project is designed not just to showcase individual mini-projects but also 
 Each project will be displayed in an **interactive card layout** — click on any card to explore the live version once deployed.
 
 
-
 ## 🧰 Tech Stack
 
 - ⚛ **React** — Frontend framework  
@@ -33,7 +32,6 @@ Each project will be displayed in an **interactive card layout** — click on an
 - 🌀 **Framer Motion** — Smooth transitions & effects  
 - 🧾 **Vite** — Fast development environment  
 - 🛜 **Netlify** — Deployment
-
 
 
 ## 🧭 My Vision for this Project
@@ -55,10 +53,14 @@ The goal of *Web Dev Journey* is to:
 - Add **responsive and dynamic mini-projects**  
 
 
-
 ## 🌟 Status
 
 🚧 **Currently:** Static website mini-projects are added
 💻 **Live Version:** [*Will be deployed after final build*]  
 
-Thank you for visiting 🙌 Stay tuned 🌆✨
+---
+
+If this project resonates with you or your organization, I’d love to connect and collaborate on similar **tech-for-social-good** initiatives.
+
+**– Vijesh Krishna**
+[Portfolio](https://vijeshkrishna.netlify.app) | [LinkedIn](https://www.linkedin.com/in/vijesh-krishna/) | [GitHub](https://github.com/Vijesh-Krishna)
