@@ -43,15 +43,12 @@ The goal of *Web Dev Journey* is to:
 - 🧑‍💻 Inspire other beginners with a **clear, visual learning roadmap**  
 - 🚀 Present all my mini-projects under one clean and interactive website
 
-
-
 ## 🪄 Future Enhancements
 
 - Add **React projects**  
 - Add **dark/light mode** and improved UI animations  
 - Include **Project metadata** (tech used, year, role, etc.)  
 - Add **responsive and dynamic mini-projects**  
-
 
 ## 🌟 Status
 
