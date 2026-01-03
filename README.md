@@ -52,7 +52,7 @@ The goal of *Web Dev Journey* is to:
 
 ## 🌟 Status
 
-🚧 **Currently:** Static website mini-projects are added
+🚧 **Currently:** Static website mini-projects are added 
 💻 **Live Version:** [*Will be deployed after final build*]  
 
 ---
